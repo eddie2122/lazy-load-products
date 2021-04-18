@@ -1,0 +1,29 @@
+.container {
+  border: 1px solid black;
+}
+.items {
+  border: 1px solid black;
+  display: flex;
+  flex: row;
+  justify-content: space-around;
+}
+.add-to-cart {
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+.items-add-button {
+  outline: none;
+  background: none;
+  width: 30px;
+  border: none;
+  cursor: pointer;
+}
+.price-container {
+  border: 1ox solid black;
+  justify-content: space-around;
+}
+.cart-button {
+  cursor: pointer;
+}
